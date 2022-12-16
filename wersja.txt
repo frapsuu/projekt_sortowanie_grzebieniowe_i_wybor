@@ -1,0 +1,2 @@
+Program napisany z wykorzystaniem wersji:
+Python 3.10.6 (Linux Ubuntu 22)
